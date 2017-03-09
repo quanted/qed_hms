@@ -46,6 +46,7 @@ TEMPLATES = [
                  os.path.join(TEMPLATE_ROOT, 'uber2017'),
                  os.path.join(TEMPLATE_ROOT, 'uber2011'),
                  os.path.join(TEMPLATE_ROOT, 'hwbi'),
+                 os.path.join(TEMPLATE_ROOT, 'hms'),
                  ],
         'APP_DIRS': True,
         'OPTIONS': {
